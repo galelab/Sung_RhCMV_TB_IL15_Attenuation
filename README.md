@@ -1,9 +1,9 @@
-#Sung_RhCMV_TB_IL15_Attenuation
+# Sung_RhCMV_TB_IL15_Attenuation
 Details the analysis procedure for identifying transcriptomic signature of RhCMV/TB vaccinated RM whole blood samples.
 Codes for trimming, filtering, alignment and counting in Preprocessing folder.
 
-#Data
+# Data
 Raw sequencing data can be found here https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSEXXXXXX (Update when switch to public).
 
-#Citation
+# Citation
 (Manuscript under review).
