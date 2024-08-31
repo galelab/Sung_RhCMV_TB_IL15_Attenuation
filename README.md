@@ -1,2 +1,9 @@
-# Sung_RhCMV_TB_IL15_Attenuation
-Bulk RNA-seq analysis of 68-1 RhCMV/TB6Ag and its attenuated variant vaccine signatures of RM whole blood samples and overlapping with RhCMV/SIV IL-15 signature.
+#Sung_RhCMV_TB_IL15_Attenuation
+Details the analysis procedure for identifying transcriptomic signature of RhCMV/TB vaccinated RM whole blood samples.
+Codes for trimming, filtering, alignment and counting in Preprocessing folder.
+
+#Data
+Raw sequencing data can be found here https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSEXXXXXX (Update when switch to public).
+
+#Citation
+(Manuscript under review).
