@@ -4,7 +4,7 @@ Details the analysis procedure for identifying transcriptomic signature of RhCMV
 Codes for trimming, filtering, alignment and counting in Preprocessing folder.
 
 # Data
-Raw sequencing data can be found here https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSEXXXXXX (Update when switch to public).
+Raw sequencing data can be found here https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273911.
 
 # Citation
-(Manuscript under review).
+(Manuscript accepted for publication).
